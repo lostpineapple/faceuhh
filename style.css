@@ -32,7 +32,7 @@ body {
 #pole {
     height: 175px;
     position: absolute;
-    bottom: 100px;
+    bottom: 50px;
     left: 50px;
     animation: pole 0.8s ease-in-out 0s infinite alternate;
 }
@@ -40,8 +40,8 @@ body {
 #fish {
     height: 100px;
     position: absolute;
-    bottom: 40px;
-    right: 50px;
+    bottom: 100px;
+    right: 100px;
     animation: fish 2s linear 0s infinite alternate;
 }
 
